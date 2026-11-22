@@ -14,9 +14,9 @@
 
 uint8_t esp2Mac[] = {0x1C, 0x69, 0x20, 0x31, 0x06, 0x20};
 
-const char* ssids[]     = { "TUPT_Electronics Project", "TUPT_Electronics Faculty", "HUAWEI-2.4G-4uJS" };
-const char* passwords[] = { "1qAz2wSx", "TUPTElec", "dZZ3Ud3x" };
-const int NUM_NETWORKS = 3;
+const char* ssids[]     = { "edit me" };
+const char* passwords[] = { "edit me" };
+const int NUM_NETWORKS = 1;
 
 // --- KEYPAD ---
 const byte ROWS = 4, COLS = 4;
